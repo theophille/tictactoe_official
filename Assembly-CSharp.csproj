@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EC85223C-5F0F-1F9D-B45A-9D9BC3BA2DEC}</ProjectGuid>
+    <ProjectGuid>{7A22F2D9-8446-023D-711A-66187F083796}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,17 +54,18 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\initializer.cs" />
+     <Compile Include="Assets\scene_management.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>E:/Unity Projects/TicTacToe/TicTacToe/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>E:/Unity Projects/TicTacToe/TicTacToe/tictactoe_official/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>E:/Unity Projects/TicTacToe/TicTacToe/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/Unity Projects/TicTacToe/TicTacToe/tictactoe_official/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/Unity Projects/TicTacToe/TicTacToe/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>E:/Unity Projects/TicTacToe/TicTacToe/tictactoe_official/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>E:/Unity Projects/TicTacToe/TicTacToe/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/Unity Projects/TicTacToe/TicTacToe/tictactoe_official/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

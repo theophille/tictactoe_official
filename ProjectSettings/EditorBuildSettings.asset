@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/start_menu.unity
+    guid: 2684aad03a08c3949b288315ddb5b0e2
   - enabled: 1
     path: Assets/Scenes/tictactoe.unity
     guid: 4efd5e3290f220c448a35b1e6a0ef5b0
